@@ -18,7 +18,7 @@
  <img align="center" alt="Dyanna-conda" height="30" width="100" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
  <img align="center" alt="Dyanna-PowerBI" height="30" width="100" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
  <img align="center" alt="Dyanna-SqlServer" height="30" width="100" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> 
- <img align="center" alt="Dyanna-MySql" height="30" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
+ 
  
   ##
  
