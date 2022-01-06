@@ -11,6 +11,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyannacs&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyannacs&show_icons=true&theme=onedark)](https://github.com/dyannacs/github-readme-stats)
     
     
 ### Technologies that I know and study  
@@ -22,7 +23,7 @@
  
   ##
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyannacs&show_icons=true&theme=onedark)](https://github.com/dyannacs/github-readme-stats)
+
 
  
 
