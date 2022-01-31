@@ -1,10 +1,9 @@
 <div align="center">
 
-Hi there, I'm Dyanna !!
-    
-Pokémon Trainer, 💻 currently learning programming languages
+Hi there! I am Dyanna
 
     
-    
-![Pokemon-Legenden-Arceus-Vorschau-auf-die-Spielinhalte](https://user-images.githubusercontent.com/90336853/151798528-d1b7c37f-4a21-41c9-83d7-626009aa7433.jpeg)
+![giphy (1)](https://user-images.githubusercontent.com/90336853/151809487-d43840f9-7ad1-44f4-a582-8fb1e22baa69.gif)
+
+
    
